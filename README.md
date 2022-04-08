@@ -1,5 +1,5 @@
 # testing-exercise
-testing with Jest
+Learning testing with Jest
 
 To start:
 1. Clone repo
